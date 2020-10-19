@@ -12,7 +12,7 @@ python server_word2.py
 * 热更新-删除词：http://wiki.ccwb.cn/web/#/73?page_id=2348
 
 ## 其他
-* 创建文件夹：delkeywords（用于暂存删除词数据），updatawords（用于暂存添加词数据），images（用于暂存被提取图像），keywords（用于存放搜集到的“关键词”txt文件，每行储存一个关键词）
+* 首次运行时需创建文件夹：delkeywords（用于暂存删除词数据），updatawords（用于暂存添加词数据），images（用于暂存被提取图像），keywords（用于存放搜集到的“关键词”txt文件，每行储存一个关键词）
 * post.py # 寻找关键词调用示例 
 * post2.py # 热更新-添加词调用示例
 * post3.py # 热更新-删除词调用示例
